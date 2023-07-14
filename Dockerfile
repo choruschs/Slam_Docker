@@ -1,4 +1,4 @@
-FROM myokoaung1585/main:slam-mirrorbot
+FROM myokoaung1585/main:smm
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 COPY . .
